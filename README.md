@@ -12,4 +12,4 @@ To run the code, change the parameters as you need and use
 bash run.sh
 ```
 
-~~We have offered a checkpoint for `DORE + negative sampling_digonal + distant`, since it takes a long time (about 7 days) to pre-train on the distantly supervised dataset. Please download it from [here](https://drive.google.com/drive/folders/1gWFbuSmvf1ALBzz3lpWp_exHNUJJ4XhP?usp=sharing).~~ Due to space limitations, we no longer provide our checkpoint. Sorry for any inconvinence.
+~~We have offered a checkpoint for `DORE + negative sampling_digonal + distant`, since it takes a long time (about 7 days) to pre-train on the distantly supervised dataset. Please download it from [here](https://drive.google.com/drive/folders/1gWFbuSmvf1ALBzz3lpWp_exHNUJJ4XhP?usp=sharing).~~ Due to storage limitations, we no longer provide our checkpoint. Sorry for any inconvinence.
